@@ -27,6 +27,7 @@
 		624AE0182E6DE60100F7A5AD /* SongsterrLoopDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SongsterrLoopDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		624AE0252E6DE60200F7A5AD /* SongsterrLoopDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SongsterrLoopDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		624AE02F2E6DE60200F7A5AD /* SongsterrLoopDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SongsterrLoopDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		624AE0662E6E0C8C00F7A5AD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +76,7 @@
 		624AE00F2E6DE60100F7A5AD = {
 			isa = PBXGroup;
 			children = (
+				624AE0662E6E0C8C00F7A5AD /* README.md */,
 				624AE01A2E6DE60100F7A5AD /* SongsterrLoopDemo */,
 				624AE0282E6DE60200F7A5AD /* SongsterrLoopDemoTests */,
 				624AE0322E6DE60200F7A5AD /* SongsterrLoopDemoUITests */,
